@@ -17,7 +17,7 @@ The project follows a simple layered structure:
 
 ## ⚙️ Tools Used
 - VS Code (editor)
-- Git (version control)sssssssssssss
+- Git (version control)
 
 ## Updates
 - Added more instructions for Lab 1
