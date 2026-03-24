@@ -21,4 +21,4 @@ The project follows a simple layered structure:
 
 ## Updates
 - Added more instructions for Lab 1
-- Added examples of folder structures
+- Added examples of folder structure
